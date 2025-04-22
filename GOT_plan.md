@@ -1,7 +1,7 @@
 # Game of Thrones Adventure Game Plan
 
 ## Story Paths
-- **Path 1: Winterfell**
+- **Path 1: Winterfell     **
   - Decision 1: Enter the Great Hall or Visit the Godswood
     - If you enter the Great Hall, you will meet Jon Snow.
       - Decision 2: Join Jon Snow in the Night's Watch or Stay in Winterfell.
